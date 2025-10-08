@@ -1,29 +1,19 @@
-# web-dev-starter
+# M 7.2 Lab Caleb Pollock
 
-This is a starter project for web development with no frameworks and minimal
-dependencies. It is intended to be a starting point for web development projects
-that are written in plain HTML, CSS, and JavaScript.
+## Usage
 
-## Getting Started
 
-To get started, clone this repository and run the following commands:
+You can either view the website through the vscode live preview plugin
+or by using a web browser and opening the index.html file.
 
-```bash
-npm install
-```
-This will install the necessary dependencies for the project.
+## Tests
 
-## Development
+This is a static webpage so no tests are provided.
 
-It is recommended to use the VSCode Live Server extension to run the project
-locally. This will allow you to see changes in real-time as you make them. There
-is no need to run a build process or refresh the page manually. Additionally,
-you do not need to setup a local server to run the project.
+## Commentary
 
-## Testing
-
-To run the tests for the project, run the following command:
-
-```bash
-npm test
-```
+This lab felt more straightforward to get working than the previous
+ones. This is I think because in previous labs I already got 
+experience using the features used here with more complex layouts,
+so applying them to a more straightforward layout like this one
+felt eaiser to do.
